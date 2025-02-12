@@ -1,0 +1,38 @@
+# Compiled files
+*.amx
+*.exe
+*.dll
+*.so
+*.pdb
+
+# Logs
+*.log
+server_log.txt
+crashinfo.txt
+
+# Database
+*.db
+*.sql
+
+# Server files
+samp-server.exe
+announce.exe
+
+# Dependencies
+pawno/
+include/
+plugins/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
